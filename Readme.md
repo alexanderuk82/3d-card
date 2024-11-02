@@ -20,7 +20,7 @@ Simply clone the repository and open the `index.html` file in your browser to se
 
 ```sh
 # Clone this repository
-git clone <repository_url>
+git clone https://github.com/alexanderuk82/3d-card
 
 # Open the project
 double-click index.html or open it with your preferred web server.
